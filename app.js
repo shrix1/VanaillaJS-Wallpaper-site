@@ -9,7 +9,7 @@ let page = 1;
 let fetchLink;
 let searchInput;
 
-//even listerner
+//event listerner
 searchInp.addEventListener("input", updateSearch);
 moreBtn.addEventListener("click", loadMore);
 form.addEventListener("click", (e) => {
