@@ -1,4 +1,4 @@
 # wallpaper-api
- pexels api projet => serach ,download,more images implemented 
+ Images are fetched by  using api (pexels api)
  
  ## you can view is project here :  https://shri-wallpaper-api.netlify.app/
